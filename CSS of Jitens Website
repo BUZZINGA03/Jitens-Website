@@ -1,6 +1,12 @@
 body {
   background-color: lightblue;
   h1 {
-    font-family: impact
+    font-family: impact;
+  }
+  h3 {
+    font-family: georgia;
+  }
+  table, th, td {
+     border: 1px solid black;
   }
 }
